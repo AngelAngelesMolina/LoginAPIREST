@@ -52,3 +52,7 @@ Este es un proyecto de kotlin para consumir una API permitiendo registrar e ingr
 
  Regresa el token del usuario.
 
+  ### Vista previa
+  ![Vista principal](https://github.com/AngelAngelesMolina/LoginAPIREST/blob/main/login_app.png?raw=true)
+  ![Vista miembros](https://github.com/AngelAngelesMolina/LoginAPIREST/blob/main/login_members.png?raw=true)
+
