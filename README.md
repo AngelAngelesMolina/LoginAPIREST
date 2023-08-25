@@ -22,16 +22,14 @@ Este es un proyecto de kotlin para consumir una API permitiendo registrar e ingr
 #### Obtener todos los usuarios
 
 ```http
-  GET - https://reqres.in/
-/api/users?page=2
+  GET - https://reqres.in/api/users?page=2
 ```
 
 
 #### Registrar user
 
 ```http
-  POST- https://reqres.in/
-/api/register
+  POST- https://reqres.in/api/register
 ```
 
 | Parameter | Type     | Description                       |
@@ -44,8 +42,7 @@ Este es un proyecto de kotlin para consumir una API permitiendo registrar e ingr
  #### Ingresar
 
 ```http
-  POST- https://reqres.in/
-/api/register
+  POST- https://reqres.in/api/register
 ```
 
 | Parameter | Type     | Description                       |
